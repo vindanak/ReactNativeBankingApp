@@ -8,17 +8,17 @@ Since I'm (still) a full-time Software Engineer, I also like to share my code so
 
 ### My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnomezgrave&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnomezgrave&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vindanak&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindanak&&exclude_repo=vindanak&layout=compact&theme=dracula" alt="languages"/>
 
 ### Top Repositories
 
-* [GCP Serverless Orchestrator](https://github.com/gnomezgrave/gcp-serverless-orchestrator)
-* [AWS Image Service](https://github.com/gnomezgrave/aws-s3-image-service)
-* [Pull Request Reports](https://github.com/gnomezgrave/pull-request-reports)
-* [Copy DynamoDB Table](https://github.com/gnomezgrave/copy-dynamodb-table)
-* [Qt Auto Translator](https://github.com/gnomezgrave/qt-auto-translator)
-* [Copy Dynamo DB Table](https://github.com/gnomezgrave/copy-dynamodb-table)
-* [A-Star Algorithm](https://github.com/gnomezgrave/A-Star)
+* [GCP Serverless Orchestrator](https://github.com/vindanak/gcp-serverless-orchestrator)
+* [AWS Image Service](https://github.com/vindanak/aws-s3-image-service)
+* [Pull Request Reports](https://github.com/vindanak/pull-request-reports)
+* [Copy DynamoDB Table](https://github.com/vindanak/copy-dynamodb-table)
+* [Qt Auto Translator](https://github.com/vindanak/qt-auto-translator)
+* [Copy Dynamo DB Table](https://github.com/vindanak/copy-dynamodb-table)
+* [A-Star Algorithm](https://github.com/vindanak/A-Star)
 
 ### Wanna read my articles?
